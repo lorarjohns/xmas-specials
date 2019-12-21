@@ -4,3 +4,4 @@ __pycache__/
 
 # large files
 *.zip
+*.json
