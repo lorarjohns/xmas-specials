@@ -5,3 +5,4 @@ __pycache__/
 # large files
 *.zip
 *.json
+single_articles/
