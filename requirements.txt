@@ -30,7 +30,7 @@ log-symbols==0.0.14
 MarkupSafe==1.1.1
 mccabe==0.6.1
 mistune==0.8.4
-nbconvert==5.6.1
+nbconvert==6.3.0
 nbformat==4.4.0
 notebook==6.0.2
 pandocfilters==1.4.2
